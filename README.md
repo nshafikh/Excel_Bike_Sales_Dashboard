@@ -1,33 +1,36 @@
 # Bike Sales Interactive Dashboard
 ## Project Objective
-- Using survey data of participants who entered bike shops globally, our goal is to gain insights regarding prospective customers and their likelihood to go through with the purchase
+- Using survey data of participants who entered bike shops globally, our goal is to gain insights regarding prospective customers and their likelihood to go through with purchasing a bike.
 
 ## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
-- Dashboard Interaction View Dashboard
+- How does income/house ownership affect likelihood to go through with purchase?
+- Does work commute time influence bike purchase rate?
+- Which age bracket purchases bikes at the highest rate?
+- Are married individuals more or less likely to purchase a bike?
+- Are people in more sedentary occupations more likely to make the purchase?
+- Does region change the answers to any of the above questions?
 
 ## Process
-Verify data for any missing values and anomalies, and sort out the same.
-Made sure data is consistent and clean with respect to data type, data format and values used.
-Created pivot tables according to the questions asked.
-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-Dashboard
-Screenshot (495)
+- Clean and standardize the data, prioritizing rows that are crucial for answering KPIs
+- Create a pivot table showing the relationships that gender (accounting for income), age, and work commute distance have with bike purchases
+- Create visualizations that show the most compelling insights
+- Add filters to see how these purchasing trends slightly change or completely flip for different demographics (homeownership, marital status, region, occupation)
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/cd7c4e00-a22c-4c0f-9c59-ac2dec5806d8)
 
 ## Project Insight
-Women customers are more likely to buy products compared to men (~65%).
-The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-More than 90% of the products delivered
+- In all cases except for females in Europe, customers who purchased a bike high higher incomes than those who walked out empty-handed
+- Work commute time affects purchases differently in each region:
+-   - Europe: Majority of people who purchase or even consider purchasing a bike are within 1 mile of their work
+    - North America: Customers are more likely to make a purchase if they are within 2 and 5 miles of their work
+    - Pacific: High number of purchases regardless of distance to work
+- Majority of the customers fall within the 35-49 age bracket
+- All other age brackets are more likely to not complete the purchase 
+- Homeowners complete bike purchases at similar rates to those who are renting, but homeowners are more likely to enter the store
+- Married people are less likely to enter the store but are far more likely to complete the purchase as a global trend
+- Unlike most other demographics, married women in North America with lower incomes are more likely to purchase bikes
+- Clerical workers follow through with purchases at the lowest rate
 
 ## Final Conclusion:
 To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
