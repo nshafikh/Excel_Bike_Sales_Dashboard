@@ -25,7 +25,7 @@
 ## Project Insight
 - In all cases except for females in Europe, customers who purchased a bike high higher incomes than those who walked out empty-handed
 - Work commute time affects purchases differently in each region:
--   - Europe: Majority of people who purchase or even consider purchasing a bike are within 1 mile of their work
+    - Europe: Majority of people who purchase or even consider purchasing a bike are within 1 mile of their work
     - North America: Customers are more likely to make a purchase if they are within 2 and 5 miles of their work
     - Pacific: High number of purchases regardless of distance to work
 - Majority of the customers fall within the 35-49 age bracket
