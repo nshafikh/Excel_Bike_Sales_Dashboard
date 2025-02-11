@@ -1,4 +1,4 @@
-# Bike Sales Interactive Dashboard
+# Bike Sales Interactive Dashboard (Excel online)
 
 ## Dashboard Still Image
 ![image](https://github.com/user-attachments/assets/cd7c4e00-a22c-4c0f-9c59-ac2dec5806d8)
