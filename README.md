@@ -13,7 +13,7 @@ Three interactive data dashboards (Excel, Power BI, Tableau) using three differe
 ## Project Objective
 - Using survey data of participants who entered bike shops globally, our goal is to gain insights regarding prospective customers and their likelihood to go through with purchasing a bike.
 
-## Questions (KPIs)
+## Questions
 - How does income/house ownership affect likelihood to go through with purchase?
 - Does work commute time influence bike purchase rate?
 - Which age bracket purchases bikes at the highest rate?
@@ -44,36 +44,30 @@ Three interactive data dashboards (Excel, Power BI, Tableau) using three differe
 # Data Professionals Survey (Power BI)
 
 ## Dashboard Still Image
-![dashboard still image](https://github.com/user-attachments/assets/a46c172a-278e-45a6-afe7-10514104d0ef)
+![image](https://github.com/user-attachments/assets/ba19d51a-0dc1-4e72-89c2-b5b4a406a3cd)
 
-## How to access: Downloadable file included in the repository
+## How to access: Downloadable Power BI file included in the repository
 
 ## Project Objective
-- Using survey data of 
+- Using survey data gathered from data professionals, gain more insights regarding specific roles, age, preferences, satisfaction, and difficulty to get into their data career.
 
-## Questions (KPIs)
-- How does income/house ownership affect likelihood to go through with purchase?
-- Does work commute time influence bike purchase rate?
-- Which age bracket purchases bikes at the highest rate?
-- Are married individuals more or less likely to purchase a bike?
-- Are people in more sedentary occupations more likely to make the purchase?
-- Does region change the answers to any of the above questions?
+## Questions
+- What is the average age of the survey participant?
+- Where are these participants living/working in data fields?
+- What are their current job titles?
+- How does job title and location influence job satisfaction?
+- What programming languages are preferred, and under which circumstances?
+- Are salary and work/life balance satisfaction correlated?
 
 ## Process
-- Clean and standardize the data, prioritizing rows that are crucial for answering KPIs
-- Create a pivot table showing the relationships that gender (accounting for income), age, and work commute distance have with bike purchases
-- Create visualizations that show the most compelling insights
-- Add filters to see how these purchasing trends slightly change or completely flip for different demographics (homeownership, marital status, region, occupation)
+- Gather questions that can be answered by the data
+- Clean the dataset (simplify column names, standardize the data to ensure consistency, represent the data in a way that can be visualized in a dashboard)
+- Create a dashboard, starting from a macro perspective and creating visuals that answer these questions on behalf of all data professionals
+- Go down to a more granular level and include visuals/filters that derive insights from different countries, job roles 
 
 ## Project Insight
-- In all cases except for females in Europe, the average income of customers who purchased a bike was than those who walked out empty-handed
-- Work commute time affects purchases differently in each region:
-    - Europe: Majority of people who purchase or even consider purchasing a bike are within 1 mile of their work
-    - North America: Customers are more likely to make a purchase if they are within 2 and 5 miles of their work
-    - Pacific: High number of purchases regardless of distance to work
-- Majority of the customers fall within the 35-49 age bracket
-- All other age brackets are more likely to not complete the purchase 
-- Homeowners complete bike purchases at similar rates to those who are renting, but homeowners are more likely to enter the store
-- Married people are less likely to enter the store but are far more likely to complete the purchase as a global trend
-- Unlike most other demographics, married women in North America with lower incomes are more likely to purchase bikes
-- Clerical workers follow through with purchases at the lowest rate
+- US data professionals seem to be most satisfied with their work/life balance and salary, and Indian data professionals are least satisfied (NOTE: US participants are almost 4 years older, not as early into their careers)
+- Data scientists get paid noticeably more compared to other fields in US and India, but that gap decreases or actually flips when looking at UK and Canada
+- Most data professionals found entering a data field to be moderate in difficulty (neither too easy nor too difficult)
+- Data scientists and architects were typically satisfied with their salaries, whereas participants in other roles were more dissatisfied than satisfied
+- Data architects appear to be most dissatisfied with their work life balance
