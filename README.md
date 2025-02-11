@@ -6,6 +6,34 @@ Three interactive data dashboards (Excel, Power BI, Tableau) using three differe
 # Bike Sales Interactive Dashboard (Excel online)
 
 ## Dashboard Still Image
+![image](https://github.com/user-attachments/assets/7bad0b08-8bdf-4152-bcff-f3086877344c)
+
+## Link: Downloadable Tableau file in repository
+
+## Project Objective
+- Using Airbnb listing data in Seattle, gather insights to help guide real estate investments (which houses should we purchase with intent to rent)
+
+## Questions
+- How does the number of bedrooms affect the average price of an Airbnb rental?
+- Which zipcodes within Seattle are most lucrative?
+- What is the bedroom demand for renters in Seattle?
+- Which part of the year was most popular for Airbnb rentals in Seattle?
+
+## Process
+- Join the listings data with the calendar data to see which listings were booked by date
+- Create a visualization on each sheet to answer each of the above questions
+- Assemble these visualizations in the dashboard
+
+## Project Insight
+- Less people are renting Seattle Airbnbs in January and February
+- The rest of the year sees a consistent revenue, with a slight increase around the holidays
+- Rental prices increase at decreasing rates based on their number of bedrooms, but then increases dramatically once we get to five bedrooms
+- The demand and revenue for one bedroom units exceed other listings by far, with rapid decline in listings and revenue for each bedroom added
+- Pretty even balance of lucrative and budget areas, but 98199 is by far the most expensive
+-----------------------------------------------------------------------------------------------
+# Bike Sales Interactive Dashboard (Excel online)
+
+## Dashboard Still Image
 ![image](https://github.com/user-attachments/assets/cd7c4e00-a22c-4c0f-9c59-ac2dec5806d8)
 
 ## Link: https://alumnicmu-my.sharepoint.com/:x:/g/personal/nshafikh_alumni_cmu_edu/EU6y6tRvWaZAnnIVXf-qIcwB-HwMieOxNCX1132AUEY-YQ?e=4e4Tgd
