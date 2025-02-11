@@ -1,4 +1,7 @@
 # Bike Sales Interactive Dashboard
+
+## Link: https://alumnicmu-my.sharepoint.com/:x:/g/personal/nshafikh_alumni_cmu_edu/EU6y6tRvWaZAnnIVXf-qIcwB-HwMieOxNCX1132AUEY-YQ?e=4e4Tgd
+
 ## Project Objective
 - Using survey data of participants who entered bike shops globally, our goal is to gain insights regarding prospective customers and their likelihood to go through with purchasing a bike.
 
