@@ -1,3 +1,6 @@
+# Interactive Dashboards Exhibit
+
+Three interactive data dashboards (Excel, Power BI, Tableau) using three different datasets that can pull various insights through different permutations of filter selections and accompanying visuals.
 
 ------------------------------------------------------------------------------------------------
 # Bike Sales Interactive Dashboard (Excel online)
@@ -36,3 +39,4 @@
 - Married people are less likely to enter the store but are far more likely to complete the purchase as a global trend
 - Unlike most other demographics, married women in North America with lower incomes are more likely to purchase bikes
 - Clerical workers follow through with purchases at the lowest rate
+------------------------------------------------------------------------------------------------
