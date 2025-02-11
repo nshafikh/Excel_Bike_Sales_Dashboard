@@ -1,5 +1,8 @@
 # Bike Sales Interactive Dashboard
 
+## Dashboard Still Image
+![image](https://github.com/user-attachments/assets/cd7c4e00-a22c-4c0f-9c59-ac2dec5806d8)
+
 ## Link: https://alumnicmu-my.sharepoint.com/:x:/g/personal/nshafikh_alumni_cmu_edu/EU6y6tRvWaZAnnIVXf-qIcwB-HwMieOxNCX1132AUEY-YQ?e=4e4Tgd
 
 ## Project Objective
@@ -18,9 +21,6 @@
 - Create a pivot table showing the relationships that gender (accounting for income), age, and work commute distance have with bike purchases
 - Create visualizations that show the most compelling insights
 - Add filters to see how these purchasing trends slightly change or completely flip for different demographics (homeownership, marital status, region, occupation)
-
-## Dashboard
-![image](https://github.com/user-attachments/assets/cd7c4e00-a22c-4c0f-9c59-ac2dec5806d8)
 
 ## Project Insight
 - In all cases except for females in Europe, customers who purchased a bike high higher incomes than those who walked out empty-handed
