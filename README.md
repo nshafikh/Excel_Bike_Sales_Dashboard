@@ -2,8 +2,39 @@
 
 Three interactive data dashboards (Excel, Power BI, Tableau) using three different datasets that can pull various insights through different permutations of filter selections and accompanying visuals.
 
+# Data Professionals Survey (Power BI)
+
+## Dashboard Still Image
+![image](https://github.com/user-attachments/assets/ba19d51a-0dc1-4e72-89c2-b5b4a406a3cd)
+
+## How to access: Downloadable Power BI file included in the repository
+
+## Project Objective
+- Using survey data gathered from data professionals, gain more insights regarding specific roles, age, preferences, satisfaction, and difficulty to get into their data career.
+
+## Questions
+- What is the average age of the survey participant?
+- Where are these participants living/working in data fields?
+- What are their current job titles?
+- How does job title and location influence job satisfaction?
+- What programming languages are preferred, and under which circumstances?
+- Are salary and work/life balance satisfaction correlated?
+
+## Process
+- Gather questions that can be answered by the data
+- Clean the dataset (simplify column names, standardize the data to ensure consistency, represent the data in a way that can be visualized in a dashboard)
+- Create a dashboard, starting from a macro perspective and creating visuals that answer these questions on behalf of all data professionals
+- Go down to a more granular level and include visuals/filters that derive insights from different countries, job roles 
+
+## Project Insight
+- US data professionals seem to be most satisfied with their work/life balance and salary, and Indian data professionals are least satisfied (NOTE: US participants are almost 4 years older, not as early into their careers)
+- Data scientists get paid noticeably more compared to other fields in US and India, but that gap decreases or actually flips when looking at UK and Canada
+- Most data professionals found entering a data field to be moderate in difficulty (neither too easy nor too difficult)
+- Data scientists and architects were typically satisfied with their salaries, whereas participants in other roles were more dissatisfied than satisfied
+- Data architects appear to be most dissatisfied with their work life balance
+
 ------------------------------------------------------------------------------------------------
-# Bike Sales Interactive Dashboard (Excel online)
+# Airbnb Seattle Listings (Excel online)
 
 ## Dashboard Still Image
 ![image](https://github.com/user-attachments/assets/7bad0b08-8bdf-4152-bcff-f3086877344c)
@@ -31,7 +62,7 @@ Three interactive data dashboards (Excel, Power BI, Tableau) using three differe
 - The demand and revenue for one bedroom units exceed other listings by far, with rapid decline in listings and revenue for each bedroom added
 - Pretty even balance of lucrative and budget areas, but 98199 is by far the most expensive
 -----------------------------------------------------------------------------------------------
-# Bike Sales Interactive Dashboard (Excel online)
+# Bike Sales (Excel online)
 
 ## Dashboard Still Image
 ![image](https://github.com/user-attachments/assets/cd7c4e00-a22c-4c0f-9c59-ac2dec5806d8)
@@ -68,34 +99,3 @@ Three interactive data dashboards (Excel, Power BI, Tableau) using three differe
 - Unlike most other demographics, married women in North America with lower incomes are more likely to purchase bikes
 - Clerical workers follow through with purchases at the lowest rate
 ------------------------------------------------------------------------------------------------
-
-# Data Professionals Survey (Power BI)
-
-## Dashboard Still Image
-![image](https://github.com/user-attachments/assets/ba19d51a-0dc1-4e72-89c2-b5b4a406a3cd)
-
-## How to access: Downloadable Power BI file included in the repository
-
-## Project Objective
-- Using survey data gathered from data professionals, gain more insights regarding specific roles, age, preferences, satisfaction, and difficulty to get into their data career.
-
-## Questions
-- What is the average age of the survey participant?
-- Where are these participants living/working in data fields?
-- What are their current job titles?
-- How does job title and location influence job satisfaction?
-- What programming languages are preferred, and under which circumstances?
-- Are salary and work/life balance satisfaction correlated?
-
-## Process
-- Gather questions that can be answered by the data
-- Clean the dataset (simplify column names, standardize the data to ensure consistency, represent the data in a way that can be visualized in a dashboard)
-- Create a dashboard, starting from a macro perspective and creating visuals that answer these questions on behalf of all data professionals
-- Go down to a more granular level and include visuals/filters that derive insights from different countries, job roles 
-
-## Project Insight
-- US data professionals seem to be most satisfied with their work/life balance and salary, and Indian data professionals are least satisfied (NOTE: US participants are almost 4 years older, not as early into their careers)
-- Data scientists get paid noticeably more compared to other fields in US and India, but that gap decreases or actually flips when looking at UK and Canada
-- Most data professionals found entering a data field to be moderate in difficulty (neither too easy nor too difficult)
-- Data scientists and architects were typically satisfied with their salaries, whereas participants in other roles were more dissatisfied than satisfied
-- Data architects appear to be most dissatisfied with their work life balance
