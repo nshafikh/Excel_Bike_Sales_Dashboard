@@ -34,7 +34,7 @@ Three interactive data dashboards (Excel, Power BI, Tableau) using three differe
 - Data architects appear to be most dissatisfied with their work life balance
 
 ------------------------------------------------------------------------------------------------
-# Airbnb Seattle Listings (Excel online)
+# Airbnb Seattle Listings (Tableau)
 
 ## Dashboard Still Image
 ![image](https://github.com/user-attachments/assets/7bad0b08-8bdf-4152-bcff-f3086877344c)
